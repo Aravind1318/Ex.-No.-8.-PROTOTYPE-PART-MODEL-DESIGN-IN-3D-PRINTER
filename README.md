@@ -46,6 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![WhatsApp Image 2024-12-13 at 09 43 32_95967783](https://github.com/user-attachments/assets/22360184-ae64-430e-9d12-5eb9c41d1e13)
+
 
 ### Name:
 ### Register Number:
